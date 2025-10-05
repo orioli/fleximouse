@@ -56,6 +56,8 @@ To learn more, check [ ACM Interactions](https://dl.acm.org/doi/10.1145/3759241)
 | 55 | ![Nabd](https://img.shields.io/badge/Nabd-AR-green) | [تصاميم جديدة لفأرة الكمبيوتر تنهي إصابات المعصم](https://nabdapp.com/t/161365433) |
 | 56 | ![Sahafahh](https://img.shields.io/badge/Sahafahh-AR-blue) | [تصاميم جديدة لفأرة الكمبيوتر تنهي إصابات المعصم](https://www.sahafahh.com/show24031914.html) |
 | 57 | ![Nabd](https://img.shields.io/badge/ixbt-RU-RED) |[Учёные создали новые мыши для ПК, отойдя от концепции типичных жёстких корпусов — они понижают нагрузку на запястье](https://ixbt.games/news/2025/09/20/ucenye-sozdali-novye-mysi-dlia-pk-otoidia-ot-koncepcii-tipicnyx-zestkix-korpusov-oni-ponizaiut-nagru.html) |
+| 57 | ![FonTech](https://img.shields.io/badge/FonTech-SK-lightblue) | [Ikonické zariadenie čaká veľká premena. Vedci vyrobili zariadenie, ktoré nahradí počítačovú myš](https://fontech.startitup.sk/revolucia-pocitacovej-mysi/) |
+| 58 | ![Yahoo](https://img.shields.io/badge/Yahoo-EN-purple) | [Researchers built two prototype mice, one with a squeezable body and another with a hinged A-frame](https://currently.att.yahoo.com/att/farewell-computer-mouse-bizarre-designs-110000478.html) |
 
 
 
