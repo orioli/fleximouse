@@ -55,6 +55,9 @@ To learn more, check [ ACM Interactions](https://dl.acm.org/doi/10.1145/3759241)
 | 54 | ![Youm7](https://img.shields.io/badge/Youm7-AR-red) | [تصميم جديدة لفأرة الكومبيوتر تنهي إصابات المعصم – تفاصيل](https://www.youm7.com/story/2025/9/24/%D8%AA%D8%B5%D8%A7%D9%85%D9%8A%D9%85-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D9%81%D8%A3%D8%B1%D8%A9-%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1-%D8%AA%D9%86%D9%87%D9%89-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B9%D8%B5%D9%85-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/7129813#google_vignette) |
 | 55 | ![Nabd](https://img.shields.io/badge/Nabd-AR-green) | [تصاميم جديدة لفأرة الكمبيوتر تنهي إصابات المعصم](https://nabdapp.com/t/161365433) |
 | 56 | ![Sahafahh](https://img.shields.io/badge/Sahafahh-AR-blue) | [تصاميم جديدة لفأرة الكمبيوتر تنهي إصابات المعصم](https://www.sahafahh.com/show24031914.html) |
+| 57 | ![Nabd](https://img.shields.io/badge/ixbt-RU-RED) |[Учёные создали новые мыши для ПК, отойдя от концепции типичных жёстких корпусов — они понижают нагрузку на запястье](https://ixbt.games/news/2025/09/20/ucenye-sozdali-novye-mysi-dlia-pk-otoidia-ot-koncepcii-tipicnyx-zestkix-korpusov-oni-ponizaiut-nagru.html) |
+
+
 
 
 | Language | Flag | Count (Unique if noted) |
