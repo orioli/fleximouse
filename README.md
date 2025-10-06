@@ -1,4 +1,5 @@
-To learn more, check [ ACM Interactions](https://dl.acm.org/doi/10.1145/3759241) and also check the [GitHub repo](https://github.com/orioli/Modified-ISO-9241-9-)  or altmetrics: [here](https://www.altmetric.com/details/180781987)
+To learn more, check [ ACM Interactions](https://dl.acm.org/doi/10.1145/3759241) and also check the [GitHub repo](https://github.com/orioli/Modified-ISO-9241-9-)  or altmetrics: [here](https://www.altmetric.com/details/180781987)  reddit: [here](https://www.reddit.com/r/MouseReview/comments/1nzd6w2/two_bbizzarre_mouse_shapes/)
+ 
 # 🖱️ Fleximouse Media Mentions
 
 | # | Outlet | Title & Link |
