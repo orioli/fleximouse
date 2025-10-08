@@ -2,7 +2,7 @@ To learn more, check [ ACM Interactions](https://dl.acm.org/doi/10.1145/3759241)
  
 # 🖱️ Fleximouse Media Mentions
 
-| # | Alt | Outlet | Title & Link |
+| # | [Altmetics tracked?]([url](https://www.altmetric.com/details/180781987/news)) | Outlet | Title & Link |
 |---|---|---|---------------------|
 | **1** | Y | ![CNN Greece](https://img.shields.io/badge/CNN-Greece-red) | [Τέλος στην καταπόνηση του καρπού βάζουν δύο πρωτοποριακά σχέδια για ποντίκια υπολογιστών](https://www.cnn.gr/tech/story/496989/telos-stin-kataponisi-tou-karpoy-vazoun-dyo-protoporiaka-sxedia-gia-pontikia-ypologiston) |
 | **2** | Y |  ![Gigazine](https://img.shields.io/badge/Gigazine-Article-darkred) | [Farewell to the Computer Mouse? New Flexible Designs Aim to Reduce Wrist Injuries](https://gigazine.net/gsc_news/en/20250923-mouse-wrist/) |
