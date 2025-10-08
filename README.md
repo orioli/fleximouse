@@ -58,6 +58,7 @@ To learn more, check [ ACM Interactions](https://dl.acm.org/doi/10.1145/3759241)
 | 57 | ![FonTech](https://img.shields.io/badge/FonTech-SK-lightblue) | [Ikonické zariadenie čaká veľká premena. Vedci vyrobili zariadenie, ktoré nahradí počítačovú myš](https://fontech.startitup.sk/revolucia-pocitacovej-mysi/) |
 | 58 | ![Yahoo](https://img.shields.io/badge/Yahoo-EN-purple) | [Researchers built two prototype mice, one with a squeezable body and another with a hinged A-frame](https://currently.att.yahoo.com/att/farewell-computer-mouse-bizarre-designs-110000478.html) |
 | 59 | ![Yahoo](https://img.shields.io/badge/nanonews-JP-purple) | [この発想はなかった。「研究者らは、マウス使用時の痛みや不快感の主な原因は、ほとんどのマウスの設計が『硬い外殻を備えている』という点にあると指摘、Fleximouseは柔らかく変形する素材になっています」。](https://naonews.jp/177318) |
+| 60 | ![Yahoo](https://img.shields.io/badge/digitalfocus-KR-purple) | [인체공학적 마우스 설계, 장시간 사용 건강 영향 연구](https://www.digitalfocus.news/news/articleView.html?idxno=14023) |
 
 
 
