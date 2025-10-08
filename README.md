@@ -2,18 +2,18 @@ To learn more, check [ ACM Interactions](https://dl.acm.org/doi/10.1145/3759241)
  
 # 🖱️ Fleximouse Media Mentions
 
-| # | Outlet | Title & Link |
-|---|--------|--------------|
-| 1 | ![CNN Greece](https://img.shields.io/badge/CNN-Greece-red) | [Τέλος στην καταπόνηση του καρπού βάζουν δύο πρωτοποριακά σχέδια για ποντίκια υπολογιστών](https://www.cnn.gr/tech/story/496989/telos-stin-kataponisi-tou-karpoy-vazoun-dyo-protoporiaka-sxedia-gia-pontikia-ypologiston) |
-| 2 | ![Gigazine](https://img.shields.io/badge/Gigazine-Article-darkred) | [Farewell to the Computer Mouse? New Flexible Designs Aim to Reduce Wrist Injuries](https://gigazine.net/gsc_news/en/20250923-mouse-wrist/) |
-| 3 | ![Gigazine](https://img.shields.io/badge/Gigazine-Japan-darkred) | [手首が痛くなりにくい新形状のマウスが開発される](https://gigazine.net/news/20250923-mouse-wrist/) |
-| 4 | ![ExtremeTech](https://img.shields.io/badge/Extreme%20Tech-Article-blue) | [Squeezable and A-Frame Mice Could Make Computer Use More Comfortable](https://www.msn.com/en-us/news/technology/squeezable-and-a-frame-mice-could-make-computer-use-more-comfortable/ar-AA1N8uC7?ocid=BingNewsVerp) |
-| 5 | ![Popular Science](https://img.shields.io/badge/Popular%20Science-Article-blue) | [Researchers created a soft squeezable computer mouse](https://www.popsci.com/technology/squeezable-computer-mouse/) |
-| 6 | ![LiveScience](https://img.shields.io/badge/LiveScience-Article-green) | [Farewell to the computer mouse? Bizarre new designs could reduce wrist injuries, scientists say](https://www.livescience.com/technology/computing/farewell-to-the-computer-mouse-bizarre-new-designs-could-reduce-wrist-injuries-scientists-say) |
-| 7 | ![TechXplore](https://img.shields.io/badge/TechXplore-Article-orange) | [Flexible ergonomics: Researchers explore new computer mouse designs](https://techxplore.com/news/2025-09-flexible-ergonomics-explore-mouse.html) |
-| 8 | ![Knowridge](https://img.shields.io/badge/Knowridge-Article-purple) | [Scientists create ergonomic computer mice inspired by hand comfort](https://knowridge.com/2025/09/scientists-create-ergonomic-computer-mice-inspired-by-hand-comfort/) |
-| 9 | ![Gizmo.md](https://img.shields.io/badge/Gizmo.md-Article-red) | [Rethinking the computer mouse to reduce wrist strain](https://gizmo.md/2025/09/05/rethinking-the-computer-mouse-to-reduce-wrist-strain/) |
-| 10 | ![Hackster.io](https://img.shields.io/badge/Hackster.io-Article-lightgrey) | [Researchers Want to Save Your Wrists with a Squishy Take on the Classic Mouse](https://www.hackster.io/news/researchers-want-to-save-your-wrists-with-a-squishy-take-on-the-classic-mouse-78112a03937d) |
+| # | Alt | Outlet | Title & Link |
+|---|---|---|---------------------|
+| **1** | Y | ![CNN Greece](https://img.shields.io/badge/CNN-Greece-red) | [Τέλος στην καταπόνηση του καρπού βάζουν δύο πρωτοποριακά σχέδια για ποντίκια υπολογιστών](https://www.cnn.gr/tech/story/496989/telos-stin-kataponisi-tou-karpoy-vazoun-dyo-protoporiaka-sxedia-gia-pontikia-ypologiston) |
+| **2** | Y |  ![Gigazine](https://img.shields.io/badge/Gigazine-Article-darkred) | [Farewell to the Computer Mouse? New Flexible Designs Aim to Reduce Wrist Injuries](https://gigazine.net/gsc_news/en/20250923-mouse-wrist/) |
+| 3 | - | ![Gigazine](https://img.shields.io/badge/Gigazine-Japan-darkred) | [手首が痛くなりにくい新形状のマウスが開発される](https://gigazine.net/news/20250923-mouse-wrist/) |
+| 4 | - | ![ExtremeTech](https://img.shields.io/badge/Extreme%20Tech-Article-blue) | [Squeezable and A-Frame Mice Could Make Computer Use More Comfortable](https://www.msn.com/en-us/news/technology/squeezable-and-a-frame-mice-could-make-computer-use-more-comfortable/ar-AA1N8uC7?ocid=BingNewsVerp) |
+| 5 | N | links to web ![Popular Science](https://img.shields.io/badge/Popular%20Science-Article-blue) | [Researchers created a soft squeezable computer mouse](https://www.popsci.com/technology/squeezable-computer-mouse/) |
+| **6** | N | links to web ![LiveScience](https://img.shields.io/badge/LiveScience-Article-green) | [Farewell to the computer mouse? Bizarre new designs could reduce wrist injuries, scientists say](https://www.livescience.com/technology/computing/farewell-to-the-computer-mouse-bizarre-new-designs-could-reduce-wrist-injuries-scientists-say) |
+| **7** | N!? | **links to doi** ![TechXplore](https://img.shields.io/badge/TechXplore-Article-orange) | [Flexible ergonomics: Researchers explore new computer mouse designs](https://techxplore.com/news/2025-09-flexible-ergonomics-explore-mouse.html) |
+| 8 | Y | links to doi ![Knowridge](https://img.shields.io/badge/Knowridge-Article-purple) | [Scientists create ergonomic computer mice inspired by hand comfort](https://knowridge.com/2025/09/scientists-create-ergonomic-computer-mice-inspired-by-hand-comfort/) |
+| 9 | N | links to nu PR ![Gizmo.md](https://img.shields.io/badge/Gizmo.md-Article-red) | [Rethinking the computer mouse to reduce wrist strain](https://gizmo.md/2025/09/05/rethinking-the-computer-mouse-to-reduce-wrist-strain/) |
+| 10 | N | links to web ![Hackster.io](https://img.shields.io/badge/Hackster.io-Article-lightgrey) | [Researchers Want to Save Your Wrists with a Squishy Take on the Classic Mouse](https://www.hackster.io/news/researchers-want-to-save-your-wrists-with-a-squishy-take-on-the-classic-mouse-78112a03937d) |
 | 11 | ![Alphagalileo](https://img.shields.io/badge/Alphagalileo-Article-yellow) | [Flexible Ergonomics: Can a Flexible Mouse Fix That Wrist Pain?](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/262707) |
 | 12 | ![News-Medical.net](https://img.shields.io/badge/News--Medical.net-Article-blueviolet) | [Research calls for ergonomic redesign of the computer mouse to prevent long-term injury](https://www.news-medical.net/news/20250904/Research-calls-for-ergonomic-redesign-of-the-computer-mouse-to-prevent-long-term-injury.aspx) |
 | 13 | ![NU News](https://img.shields.io/badge/NU-News-informational) | [Redesigning Familiar Computer Mouse – Fleximouse by NU Scientist](https://nu.edu.kz/en/news/redesigning-familiar-computer-mouse-fleximouse-by-nu-scientist) |
@@ -59,7 +59,6 @@ To learn more, check [ ACM Interactions](https://dl.acm.org/doi/10.1145/3759241)
 | 58 | ![Yahoo](https://img.shields.io/badge/Yahoo-EN-purple) | [Researchers built two prototype mice, one with a squeezable body and another with a hinged A-frame](https://currently.att.yahoo.com/att/farewell-computer-mouse-bizarre-designs-110000478.html) |
 | 59 | ![Yahoo](https://img.shields.io/badge/nanonews-JP-purple) | [この発想はなかった。「研究者らは、マウス使用時の痛みや不快感の主な原因は、ほとんどのマウスの設計が『硬い外殻を備えている』という点にあると指摘、Fleximouseは柔らかく変形する素材になっています」。](https://naonews.jp/177318) |
 | 60 | ![Yahoo](https://img.shields.io/badge/digitalfocus-KR-purple) | [인체공학적 마우스 설계, 장시간 사용 건강 영향 연구](https://www.digitalfocus.news/news/articleView.html?idxno=14023) |
-
 
 
 
