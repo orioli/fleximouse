@@ -1,4 +1,7 @@
 To learn more, check [ ACM Interactions](https://dl.acm.org/doi/10.1145/3759241) and also check the [GitHub repo](https://github.com/orioli/Modified-ISO-9241-9-)  or altmetrics: [here](https://www.altmetric.com/details/180781987)  reddit: [here](https://www.reddit.com/r/MouseReview/comments/1nzd6w2/two_bbizzarre_mouse_shapes/)
+
+
+
  
 # 🖱️ Fleximouse Media Mentions found via "fleximouse" keyword search
 
@@ -91,26 +94,37 @@ To learn more, check [ ACM Interactions](https://dl.acm.org/doi/10.1145/3759241)
 | **22** | livedoor.com | [研究者が柔らかく握れる新しいコンピュータマウスを開発](https://news.livedoor.com/article/image_detail/29631443/?img_id=49882339) |
 | **23** | knife.media | [Ученые изобрели компьютерные мыши, которые можно сжимать](https://knife.media/uchenye-izobreli-kompyuternye-myshi-kotorye-mozhno-szhimat/) |
 
-| Language | Flag | Count (Unique if noted) |
-|----------|------|--------------------------|
-| English (EN) | 🇬🇧 | 21 (18 unique) |
-| Russian (RU) | 🇷🇺 | 5 |
-| Arabic (AR) | AR | 3 |
-| Korean (KR) | 🇰🇷 | 3 |
-| Japanese (JP) | 🇯🇵 | 2 |
-| Chinese (ZH/TW) | CH | 2 |
-| Italian (IT) | 🇮🇹 | 2 unique (3 incl. dup) |
-| Greek (EL) | 🇬🇷 | 1 |
-| Spanish (ES) | 🇪🇸 | 1 |
-| Vietnamese (VN) | 🇻🇳 | 1 |
-| Portuguese (BR) | 🇧🇷 | 1 |
-| Bosnian (BA) | 🇧🇦 | 1 |
-| Slovak (SK) | 🇸🇰 | 1 |
-| Polish (PL) | 🇵🇱 | 1 |
-| French (FR) | 🇫🇷 | 1 |
-| Kazakh (KZ) | 🇰🇿 | 1 |
 
-
+# 🖱️ Fleximouse Media Mentions found via fig2 exact image search (no back link)
+| # | Outlet | Title & Link |
+|---|---|---------------------|
+| **1** | vinegret.net | [Учёные представили необычные модели, которые могут снизить риск травм запястья](https://vinegret.net/uchenye-predstavili-neobychnye-modeli-kotorye-mogut-snizit-risk-travm-zapjastja/) |
+| **2** | cyprusnews.eu | [ποντίκι υπολογιστή – Tech news tag](https://new.cyprusnews.eu/tag/%CF%80%CE%BF%CE%BD%CF%84%CE%B9%CE%BA%CE%B9-%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%B7/) |
+| **3** | mirc.gr | [Τέλος στην καταπόνηση του καρπού βάζουν νέες πρωτοποριακές προτάσεις για ποντίκια](https://mirc.gr/%CF%84%CE%AD%CE%BB%CE%BF%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CE%B1%CF%84%CE%B1%CF%80%CF%8C%CE%BD%CE%B7%CF%83%CE%B7-%CF%84%CE%BF%CF%85-%CE%BA%CE%B1%CF%81%CF%80%CE%BF%CF%8D-%CE%B2%CE%AC%CE%B6%CE%BF/) |
+| **4** | parastood.ir | [خداحافظی با موس‌های پردردسر طراحی‌شده](https://parastood.ir/%D8%AE%D8%AF%D8%A7%D8%AD%D8%A7%D9%81%D8%B8%DB%8C-%D8%A8%D8%A7-%D9%85%D9%88%D8%B3%D9%87%D8%A7%DB%8C-%D9%BE%D8%B1%D8%AF%D8%B1%D8%AF%D8%B3%D8%B1-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%D9%87/) |
+| **5** | gardeshgari724.ir | [خداحافظی با موس‌های پردردسر طراحی‌شده](https://gardeshgari724.ir/%D8%AE%D8%AF%D8%A7%D8%AD%D8%A7%D9%81%D8%B8%DB%8C-%D8%A8%D8%A7-%D9%85%D9%88%D8%B3%D9%87%D8%A7%DB%8C-%D9%BE%D8%B1%D8%AF%D8%B1%D8%AF%D8%B3%D8%B1-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%D9%87/) |
+| **6** | x.com | [Post by @PVynckier](https://x.com/PVynckier/status/1972951509739745687) |
+| **7** | arzdigital.media | [خداحافظی با موس‌های پردردسر طراحی‌شده](https://arzdigital.media/%D8%AE%D8%AF%D8%A7%D8%AD%D8%A7%D9%81%D8%B8%DB%8C-%D8%A8%D8%A7-%D9%85%D9%88%D8%B3%D9%87%D8%A7%DB%8C-%D9%BE%D8%B1%D8%AF%D8%B1%D8%AF%D8%B3%D8%B1-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%D9%87/) |
+| **8** | magazineno.ir | [خداحافظی با موس‌های پردردسر طراحی‌شده](https://magazineno.ir/2025/09/21/%D8%AE%D8%AF%D8%A7%D8%AD%D8%A7%D9%81%D8%B8%DB%8C-%D8%A8%D8%A7-%D9%85%D9%88%D8%B3%D9%87%D8%A7%DB%8C-%D9%BE%D8%B1%D8%AF%D8%B1%D8%AF%D8%B3%D8%B1-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%D9%87/) |
+| **9** | ruliweb.com | [가장 편한 인체공학적 마우스를 만들기 위한 최근 연구](https://m.ruliweb.com/best/board/300143/read/72408202?m=humor&t=now&page=2&best_tab=readcount) |
+| **10** | jirjirk.com | [Researchers attempt to make mouse in different forms](https://www.jirjirk.com/technology/175836258434/researchers-attempt-to-make-mouse-in-different-forms) |
+| **11** | realme.com | [Community post on new mouse concepts](https://c.realme.com/in/post-details/1972324736671260672) |
+| **12** | x.com | [Post by @BillMillerMD](https://x.com/BillMillerMD/status/1969417330447839419) |
+| **13** | zdnet.co.kr | [과학자들이 손목 부상 위험을 줄일 수 있는 두 가지 새로운 마우스 설계를 개발](https://zdnet.co.kr/view/?no=20250925085457) |
+| **14** | daum.net | [손목 통증을 줄일 새 마우스 디자인 공개](https://v.daum.net/v/20250925102013558) |
+| **15** | insight.co.kr | [“이게 마우스라고?”... 유연한 구조로 손목 피로 줄이는 혁신적 기술 화제](https://www.insight.co.kr/news/521815) |
+| **16** | vista.ir | [دانشجویان مدل‌های متفاوتی از موس معرفی کردند](https://vista.ir/n/shafaqna-cpyyr) |
+| **17** | livedoor.com | [研究者が柔らかく握れる新しいコンピュータマウスを開発](https://news.livedoor.com/article/image_detail/29631443/?img_id=49882341) |
+| **18** | indiatimes.com | [Scientists developed two new mouse designs – these could reduce wrist injuries](https://navbharattimes.indiatimes.com/tech/gadgets-news/scientists-developed-two-new-mouse-designs-these-could-reduce-wrist-injuries/articleshow/124209646.cms) |
+| **19** | skript.sk | [Po 62 rokoch prichádza revolúcia, ktorá pochová PC myš: Toto ju nahradí](https://www.skript.sk/po-62-rokoch-prichadza-revolucia-ktora-pochova-pc-mys-toto-ju-nahradi/) |
+| **20** | informator.ua | [Геймеры пока недовольны привычным компьютерным мышкам: нашли замену](https://informator.ua/ru/geymery-poka-nedovolny-privychnym-kompyuternym-myshkam-nashli-zamenu) |
+| **21** | shafaqna.com | [خداحافظی با موس‌های پردردسر طراحی‌شده](https://fa.shafaqna.com/news/2114144/) |
+| **22** | chn.ir | [محققان چینی مدل‌های نوینی از موس معرفی کردند](https://www.chn.ir/technology/138134/) |
+| **23** | internetua.com | [Геймери поки що незадоволені звичними комп’ютерними мишками: знайшли заміну](https://internetua.com/geimeri-poki-sxo-nezadovoleni-zvicsnim-komp-uaternim-mishkam-znaishli-zaminu) |
+| **24** | internetua.com | [Геймери поки що незадоволені звичними комп’ютерними мишками: знайшли заміну](https://internetua.com/geimeri-poki-sxo-nezadovoleni-zvicsnim-komp-uaternim-mishkam-znaishli-zaminu) |
+| **25** | ramzarzfa.com | [Ramzarz Technology Article](https://ramzarzfa.com/technology/25589/) |
+| **26** | sahafa24.com | [سازندگان مدل موس جدید](https://sahafa24.com/show771714107.html) |
+| **27** | 2plus2.ua | [Комп’ютерні миші майбутнього: як нові прототипи можуть рятувати користувачів від травм](https://2plus2.ua/ru/novyny/kompiuterni-myshi-maibutnoho-yak-novi-prototypy-mozhut-vriatuvaty-korystuvachiv-vid-travm) |
 
 
 
