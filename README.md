@@ -59,7 +59,7 @@ To learn more, check [ ACM Interactions](https://dl.acm.org/doi/10.1145/3759241)
 | 53 | - | ![Yahoo](https://img.shields.io/badge/Yahoo-EN-purple) | [Researchers built two prototype mice, one with a squeezable body and another with a hinged A-frame](https://currently.att.yahoo.com/att/farewell-computer-mouse-bizarre-designs-110000478.html) |
 | 54 | - | ![nn](https://img.shields.io/badge/nanonews-JP-purple) | [この発想はなかった。「研究者らは、マウス使用時の痛みや不快感の主な原因は、ほとんどのマウスの設計が『硬い外殻を備えている』という点にあると指摘、Fleximouseは柔らかく変形する素材になっています」。](https://naonews.jp/177318) |
 | 55 | N | ![kwe](https://img.shields.io/badge/Wiki-kk-red) | [kk.wiki](https://kk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB%D2%9B%D1%8B%D0%BB%D0%B0%D1%83:Fleximouse) |
-
+| 56 | N | DOI LINK YES  ![Fediverse](https://img.shields.io/badge/Fediverse-JP-darkred) | [p.tatapa.org notice](https://p.tatapa.org/notice/AxtUO1YH8e0vKgASES) |
 
 
 
