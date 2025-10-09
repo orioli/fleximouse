@@ -60,7 +60,7 @@ To learn more, check [ ACM Interactions](https://dl.acm.org/doi/10.1145/3759241)
 | 54 | - | ![nn](https://img.shields.io/badge/nanonews-JP-purple) | [この発想はなかった。「研究者らは、マウス使用時の痛みや不快感の主な原因は、ほとんどのマウスの設計が『硬い外殻を備えている』という点にあると指摘、Fleximouseは柔らかく変形する素材になっています」。](https://naonews.jp/177318) |
 | 55 | N | ![kwe](https://img.shields.io/badge/Wiki-kk-red) | [kk.wiki](https://kk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB%D2%9B%D1%8B%D0%BB%D0%B0%D1%83:Fleximouse) |
 | 56 | N | DOI LINK YES  ![Fediverse](https://img.shields.io/badge/Fediverse-JP-darkred) | [p.tatapa.org notice](https://p.tatapa.org/notice/AxtUO1YH8e0vKgASES) |
-
+| 57 | - | ![KTH DiVA](https://img.shields.io/badge/Repository-SE-blue) | [KTH DiVA record 2003642](https://kth.diva-portal.org/smash/record.jsf?faces-redirect=true&aq2=%5B%5B%5D%5D&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=&language=sv&pid=diva2%3A2003642&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=537) |
 
 
 
