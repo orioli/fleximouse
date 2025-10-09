@@ -65,6 +65,32 @@ To learn more, check [ ACM Interactions](https://dl.acm.org/doi/10.1145/3759241)
 
 
 
+| # | Outlet | Title & Link |
+|---|---|---------------------|
+| **1** | insight.co.kr | [“이게 마우스라고?”... 유연한 구조로 손목 피로 줄이는 혁신적 기술 화제](https://web.insight.co.kr/amp/news/521815) |
+| **2** | faradeed.ir | [تلاش محققان برای ساخت «ماوس‌» به شکل‌های متفاوت](https://faradeed.ir/%D8%A8%D8%AE%D8%B4-%D8%B9%D9%84%D9%85-%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C-84/261538-%D8%AA%D9%84%D8%A7%D8%B4-%D9%85%D8%AD%D9%82%D9%82%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%D9%85%D8%A7%D9%88%D8%B3-%D8%A8%D9%87-%D8%B4%DA%A9%D9%84-%D9%87%D8%A7%DB%8C-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA) |
+| **3** | jirjirk.com | [Researchers attempt to make mouse in different forms](https://www.jirjirk.com/technology/175836258434/researchers-attempt-to-make-mouse-in-different-forms) |
+| **4** | ruliweb.com | [가장 편한 인체공학적 마우스를 만들기 위한 최근 연구](https://m.ruliweb.com/best/board/300143/read/72408202?m=humor&t=now&page=2&best_tab=readcount) |
+| **5** | informator.ua | [Геймеры пока недовольны привычным компьютерным мышкам: нашли замену](https://informator.ua/ru/geymery-poka-nedovolny-privychnym-kompyuternym-myshkam-nashli-zamenu) |
+| **6** | webreport.ir | [محققان در حال ساخت موس‌های متفاوت برای کاهش آسیب‌ها](https://www.webreport.ir/53643901758364703) |
+| **7** | dns-shop.ru | [Созданы прототипы компьютерных мышей для снижения риска травм](https://club.dns-shop.ru/digest/153507-sozdanyi-prototipyi-komputernyih-myishei-dlya-snijeniya-riska-travm-po/?utm_referrer=https%3A%2F%2Fwww.google.com%2F) |
+| **8** | khabarpu.com | [تلاش محققان برای ساخت «ماوس‌» به شکل‌های متفاوت](https://khabarpu.com/b.htm?u=%D8%AA%D9%84%D8%A7%D8%B4-%D9%85%D8%AD%D9%82%D9%82%D8%A7%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%C2%AB%D9%85%D8%A7%D9%88%D8%B3%E2%80%8C%C2%BB-%D8%A8%D9%87-%D8%B4%DA%A9%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA_ZmFyYWRlZWQuaXIvZmEvdGlueS9uZXdzLTI2MTUzOA==_2YHYsdin2K/bjNiv) |
+| **9** | nachedeu.com | [исследователи создали мягкую сжимаемую мышь](https://www.nachedeu.com/%d0%b8%d1%81%d1%81%d0%bb%d0%b5%d0%b4%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d0%b8-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bb%d0%b8-%d0%bc%d1%8f%d0%b3%d0%ba%d1%83%d1%8e-%d1%81%d0%b6%d0%b8%d0%bc%d0%b0%d1%8e/) |
+| **10** | wtftime.ru | [Ученые показали радикально новые концепции компьютерных мышек](https://wtftime.ru/articles/156764/uchenye-pokazali-radikalno-novye-kontseptsii-kompjuternyh-myshek/) |
+| **11** | smartpress.by | [Прощай, компьютерная мышка: ученые предлагают странные, но полезные замены привычному гаджету](https://smartpress.by/news/proshchay-kompyuternaya-myshka-uchenye-predlagayut-strannye-no-poleznye-zameny-privychnomu-gadzhetu/) |
+| **12** | jisaka.com | [新しい形状のコンピュータマウスが研究されている](http://www.jisaka.com/archives/47548633.html) |
+| **13** | nasimeqaen.ir | [تحقیقات برای ساخت موس‌های متفاوت ادامه دارد](https://nasimeqaen.ir/v/657674) |
+| **14** | informator.ua | [Геймеры пока недовольны привычным компьютерным мышкам: нашли замену](https://informator.ua/ru/geymery-poka-nedovolny-privychnym-kompyuternym-myshkam-nashli-zamenu) |
+| **15** | youtube.com | [(Video) Researchers present squeezable mouse](https://www.youtube.com/watch?v=Y5oRm199GS8) |
+| **16** | islam.kz | [Казахстанские ученые изобрели компьютерные мыши, которые можно сжимать](https://islam.kz/ru/news/kazahstan/kazahstanskie-uchenye-izobreli-kompyuternye-myshi-kotorye-mojno-sjimat-22253/#gsc.tab=0) |
+| **17** | x.com | [Post by @ahier](https://x.com/ahier/status/1970592619433439607) |
+| **18** | x.com | [Post by @ExtremeTech](https://x.com/ExtremeTech/status/1970503643192340963) |
+| **19** | mxmnews.com | [Researchers created a soft squeezable computer mouse](https://mxmnews.com/article/950aacdc-a89f-45a4-a0a9-38abc7f7f394?researchers-created-a-soft-squeezable-computer-mouse) |
+| **20** | past.am | [Researchers created squeezable mouse (English edition)](https://past.am/?p=416789&l=en#gsc.tab=0) |
+| **21** | orer.am | [Researchers created squeezable mouse](https://orer.am/?p=499310&l=en) |
+| **22** | livedoor.com | [研究者が柔らかく握れる新しいコンピュータマウスを開発](https://news.livedoor.com/article/image_detail/29631443/?img_id=49882339) |
+| **23** | knife.media | [Ученые изобрели компьютерные мыши, которые можно сжимать](https://knife.media/uchenye-izobreli-kompyuternye-myshi-kotorye-mozhno-szhimat/) |
+
 | Language | Flag | Count (Unique if noted) |
 |----------|------|--------------------------|
 | English (EN) | 🇬🇧 | 21 (18 unique) |
