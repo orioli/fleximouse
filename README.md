@@ -1,6 +1,6 @@
 To learn more, check [ ACM Interactions](https://dl.acm.org/doi/10.1145/3759241) and also check the [GitHub repo](https://github.com/orioli/Modified-ISO-9241-9-)  or altmetrics: [here](https://www.altmetric.com/details/180781987)  reddit: [here](https://www.reddit.com/r/MouseReview/comments/1nzd6w2/two_bbizzarre_mouse_shapes/)
  
-# 🖱️ Fleximouse Media Mentions
+# 🖱️ Fleximouse Media Mentions found via "fleximouse" keyword search
 
 | # | [Altmetics tracked?]([url](https://www.altmetric.com/details/180781987/news)) | Outlet | Title & Link |
 |---|---|---|---------------------|
@@ -64,7 +64,7 @@ To learn more, check [ ACM Interactions](https://dl.acm.org/doi/10.1145/3759241)
 | 58 | N | Links to doi ![Daroupeyk](https://img.shields.io/badge/Blog-IR-green) | [Daroupeyk: Reduced ergonomic mice to prevent prolonged damage](https://daroupeyk.ir/research-calls-for-reduced-ergonomic-mice-to-prevent-prolonged-damage/) |
 
 
-
+# 🖱️ Fleximouse Media Mentions found via fig1 exact image search (no back link)
 | # | Outlet | Title & Link |
 |---|---|---------------------|
 | **1** | insight.co.kr | [“이게 마우스라고?”... 유연한 구조로 손목 피로 줄이는 혁신적 기술 화제](https://web.insight.co.kr/amp/news/521815) |
